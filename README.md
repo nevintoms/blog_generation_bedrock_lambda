@@ -1,0 +1,1 @@
+# blog_generation_bedrock_lambda
