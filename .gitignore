@@ -1,0 +1,18 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Lambda layer build folder
+python/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore ZIP archives
+*.zip
+
+# Ignore OS files
+.DS_Store
+
+# Ignore local IDE configs
+.vscode/
